@@ -5,10 +5,24 @@ body{
 }
 
 .order{
-    width: 500px;
-    background: #efefef;
+    width: 350px;
+    background: #a7a1a1;
     color: #212121;
     margin: 0 auto;
-    padding: 15px;
+    padding: 10px;
     margin: 15px auto;
+    text-align: center;
+    border: 2px solid #212121;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 18px; 
+}
+
+p{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(199, 20, 20);
 }
