@@ -1,0 +1,14 @@
+body{
+
+    height: 100vh;
+    background: rgb(95, 95, 224);
+}
+
+.order{
+    width: 500px;
+    background: #efefef;
+    color: #212121;
+    margin: 0 auto;
+    padding: 15px;
+    margin: 15px auto;
+}
